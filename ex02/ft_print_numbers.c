@@ -10,10 +10,9 @@ void ft_print_numbers(void){
 	while(digit <= '9'){
 		ft_putchar(digit);
 		digit++;
-	}	
+	}
 }
 
-int main(void){
-	ft_print_numbers();
-}
-
+//int main(void){
+//	ft_print_numbers();
+//}
